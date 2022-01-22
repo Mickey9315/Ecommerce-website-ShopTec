@@ -1,3 +1,3 @@
 # Ecommerce-website ShopTec
 
-![preview img](/preview.pn)
+![preview img](/preview.png)
